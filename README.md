@@ -1,2 +1,2 @@
-# castle-e_dream
-a 2d "castle" drawing done with js
+# p5.play-boilerplate
+Boiler plate for p5.play
